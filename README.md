@@ -1,6 +1,6 @@
 **Delta PLC Communication Application**
 The Delta PLC Communication App simplifies connecting to Delta PLCs using Modbus ASCII over RS-232/RS-485. It's perfect for industrial automation, reading, writing, and managing data registers, all while ensuring efficient and easy troubleshooting.
-![image](https://github.com/user-attachments/assets/41590b90-6a82-497f-847e-92f362946787)
+![image](https://github.com/user-attachments/assets/fd43a3de-3b4b-4554-b1d9-b9604d881b33)
 ## Key Features:
 1. **Connect to PLC:** Quickly establish a connection via COM port (RS-232/RS-485).  
 2. **Read Registers:** Easily retrieve register values from the PLC.  
